@@ -10,7 +10,7 @@ The system runs functions in a sandboxed environment and logs results into a str
 
 neurosynapse-cloud/
 ├── backend/
-│ ├── core/ # Scheduler logic
+│ ├── core/ # Scheduler logic 
 │ ├── utils/ # Logging utilities
 │ ├── db/ # Database models
 │ └── test_logger.py # Test for logger + DB
@@ -35,3 +35,4 @@ Clone the repo:
 ```bash
 git clone https://github.com/manas0911user/neurosynapse-cloud.git
 cd neurosynapse-cloud
+
