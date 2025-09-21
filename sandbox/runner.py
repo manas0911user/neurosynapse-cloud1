@@ -1,7 +1,7 @@
 import time
 import json
 
-def run_function_safely(variant: dict) -> dict:
+def run_function_safely(variant: dict) -> dict: 
     """
     Simulates safe execution of a mutated service inside a sandbox.
     Later this can be replaced with Docker/WASM container execution.
